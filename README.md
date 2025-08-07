@@ -4,7 +4,7 @@ Run Kali linux (x86) on your Browser as an emulator!
 ⚠️ **it is just for experimentation & it is slower for 32-bit Operating systems. so have patience while booting.**
 <br>
 
-### If you are willing to try online, you may  [click here](https://kali-js.netlify.app) & make sure to downlaod `.iso` i provided in `release` section.
+### If you are willing to try online, you may  [click here](https://kali-js.netlify.app) & make sure to download `.iso` i provided in `release` section.
 
 # Install & run Locally :
 
