@@ -1,10 +1,12 @@
 # Kali_JS
-Run Kali linux (x86) on your Browser using V86 emulator! 
+Run Kali linux (x86) on your Browser as an emulator! 
 
-Just a Side-project created for testing & experimentation, hence open-sourced for sharing the experience .
+ Just a Side-project created for testing & experimentation.
+
+⚠️ **it is just experimentation & it is slower for 32-bit Operating systems. so have patience while booting.**
+<br>
+
 If you are willing to try, you may follow these simple steps :
-
-## ⚠️Disclaimer: it is just experimentation & it is slower for 32-bit Operating systems. so have patience while booting.
 # Install & run :
 
 1) Download Source Code from `release` section & extract the `.zip`
