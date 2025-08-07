@@ -17,7 +17,7 @@ Run Kali linux (x86) on your Browser as an emulator!
    ```
    npx http-server
      ```
-3) Finally select the `kali.iso` and Boot it into FailSafe mode (HIGHLY RECOMMENDED!) 
+3) Finally select the `kali.iso` and Boot it into **USB-Persistence Mode** (HIGHLY RECOMMENDED!) 
   <br> `Note: Other modes won't work , it will result into Kernel panic `
 
 5) Optionally, you can use it to run other x86 images too.
